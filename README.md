@@ -31,7 +31,7 @@ This project entails a complete end-to-end data analytics and data engineering l
 ## 📊 Dashboard Features
 - **Player Performance Analysis:** Interactive visuals to dissect a player's performance against specific teams or in various match conditions.
 - **Best 11 Selection Sandbox:** A specialized view permitting the dynamic filtering of players based on defined thresholds (e.g., minimum runs, minimum wickets, strike rate limits) to assemble the ultimate playing 11 purely heavily grounded in data.
--Screenshot:
+- **Screenshot**:
 <img width="1908" height="1073" alt="Dashboard" src="https://github.com/user-attachments/assets/018776f6-1ee3-46b1-8efa-2e8b0f28e0bc" />
 
 
